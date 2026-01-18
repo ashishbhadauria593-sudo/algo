@@ -1,0 +1,6 @@
+# To run example notebooks, install required and test dependencies
+.[test]
+numpy
+pandas
+bokeh
+sambo
